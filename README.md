@@ -1,1 +1,1 @@
-## [A Random Quote Generator](https://marcofalotico.github.io/A_random_futbol_quotes_generator/)
+## [A Random Quote Generator](https://marcofalotico.github.io/1_Random_futbol_quotes_generator_app/)
